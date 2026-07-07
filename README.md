@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prachiupreti/DSA-soln/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prachiupreti/DSA-soln/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Tree
 |  |
@@ -64,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prachiupreti/DSA-soln/tree/master/0022-generate-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prachiupreti/DSA-soln/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prachiupreti/DSA-soln/tree/master/0022-generate-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prachiupreti/DSA-soln/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
