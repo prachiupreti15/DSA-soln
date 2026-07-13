@@ -135,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/prachiupreti/DSA-soln/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prachiupreti/DSA-soln/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prachiupreti/DSA-soln/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/prachiupreti/DSA-soln/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
