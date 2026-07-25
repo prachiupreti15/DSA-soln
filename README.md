@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/prachiupreti/DSA-soln/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prachiupreti/DSA-soln/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prachiupreti/DSA-soln/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/prachiupreti/DSA-soln/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/prachiupreti/DSA-soln/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/prachiupreti/DSA-soln/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prachiupreti/DSA-soln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/prachiupreti/DSA-soln/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prachiupreti/DSA-soln/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prachiupreti/DSA-soln/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0130-surrounded-regions](https://github.com/prachiupreti/DSA-soln/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/prachiupreti/DSA-soln/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/prachiupreti/DSA-soln/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/prachiupreti/DSA-soln/tree/master/0542-01-matrix) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prachiupreti/DSA-soln/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prachiupreti/DSA-soln/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prachiupreti/DSA-soln/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0130-surrounded-regions](https://github.com/prachiupreti/DSA-soln/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prachiupreti/DSA-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0542-01-matrix](https://github.com/prachiupreti/DSA-soln/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/prachiupreti/DSA-soln/tree/master/0994-rotting-oranges) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/prachiupreti/DSA-soln/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/prachiupreti/DSA-soln/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/prachiupreti/DSA-soln/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/prachiupreti/DSA-soln/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/prachiupreti/DSA-soln/tree/master/0994-rotting-oranges) |
 ## Topological Sort
