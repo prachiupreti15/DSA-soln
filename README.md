@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/prachiupreti/DSA-soln/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/prachiupreti/DSA-soln/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/prachiupreti/DSA-soln/tree/master/0610-triangle-judgement) |
+| [0626-exchange-seats](https://github.com/prachiupreti/DSA-soln/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/prachiupreti/DSA-soln/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/prachiupreti/DSA-soln/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/prachiupreti/DSA-soln/tree/master/1148-article-views-i) |
