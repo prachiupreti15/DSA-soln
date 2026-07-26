@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/prachiupreti/DSA-soln/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prachiupreti/DSA-soln/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/prachiupreti/DSA-soln/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/prachiupreti/DSA-soln/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/prachiupreti/DSA-soln/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prachiupreti/DSA-soln/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/prachiupreti/DSA-soln/tree/master/0130-surrounded-regions) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/prachiupreti/DSA-soln/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prachiupreti/DSA-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prachiupreti/DSA-soln/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/prachiupreti/DSA-soln/tree/master/1288-remove-covered-intervals) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/prachiupreti/DSA-soln/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prachiupreti/DSA-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
