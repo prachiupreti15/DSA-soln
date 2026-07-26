@@ -15,7 +15,7 @@ public:
 
         while (i >= 0 && j >= 0) {
             if (nums1[i] >= nums2[j]) {
-                nums1[a] = nums1[i];
+                swap(nums1[i], nums1[a]);
                 i--;
                 a--;
             }
