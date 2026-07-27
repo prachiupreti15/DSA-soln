@@ -7,7 +7,6 @@ public:
         int shift = n-1 ;
 
         if (n==0) return 0;
-        if (n==1 && nums[0] != val) return 1;
 
         int i = 0 ;
         while ( i < n ){
