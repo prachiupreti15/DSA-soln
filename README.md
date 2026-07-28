@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prachiupreti/DSA-soln/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/prachiupreti/DSA-soln/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prachiupreti/DSA-soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prachiupreti/DSA-soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/prachiupreti/DSA-soln/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prachiupreti/DSA-soln/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/prachiupreti/DSA-soln/tree/master/0131-palindrome-partitioning) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prachiupreti/DSA-soln/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prachiupreti/DSA-soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prachiupreti/DSA-soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prachiupreti/DSA-soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
