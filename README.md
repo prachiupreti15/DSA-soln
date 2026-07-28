@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prachiupreti/DSA-soln/tree/master/0022-generate-parentheses) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prachiupreti/DSA-soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prachiupreti/DSA-soln/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/prachiupreti/DSA-soln/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/prachiupreti/DSA-soln/tree/master/0542-01-matrix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prachiupreti/DSA-soln/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/prachiupreti/DSA-soln/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prachiupreti/DSA-soln/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prachiupreti/DSA-soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/prachiupreti/DSA-soln/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prachiupreti/DSA-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prachiupreti/DSA-soln/tree/master/0169-majority-element) |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/prachiupreti/DSA-soln/tree/master/0169-majority-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prachiupreti/DSA-soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prachiupreti/DSA-soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
