@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prachiupreti/DSA-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prachiupreti/DSA-soln/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/prachiupreti/DSA-soln/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/prachiupreti/DSA-soln/tree/master/0380-insert-delete-getrandom-o1) |
 | [0542-01-matrix](https://github.com/prachiupreti/DSA-soln/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prachiupreti/DSA-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [0994-rotting-oranges](https://github.com/prachiupreti/DSA-soln/tree/master/0994-rotting-oranges) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/prachiupreti/DSA-soln/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prachiupreti/DSA-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prachiupreti/DSA-soln/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prachiupreti/DSA-soln/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prachiupreti/DSA-soln/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prachiupreti/DSA-soln/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/prachiupreti/DSA-soln/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/prachiupreti/DSA-soln/tree/master/0380-insert-delete-getrandom-o1) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/prachiupreti/DSA-soln/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prachiupreti/DSA-soln/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/prachiupreti/DSA-soln/tree/master/1110-delete-nodes-and-return-forest) |
@@ -273,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prachiupreti/DSA-soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/prachiupreti/DSA-soln/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/prachiupreti/DSA-soln/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
