@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prachiupreti/DSA-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prachiupreti/DSA-soln/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prachiupreti/DSA-soln/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachiupreti/DSA-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/prachiupreti/DSA-soln/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prachiupreti/DSA-soln/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prachiupreti/DSA-soln/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prachiupreti/DSA-soln/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/prachiupreti/DSA-soln/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/prachiupreti/DSA-soln/tree/master/0131-palindrome-partitioning) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachiupreti/DSA-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prachiupreti/DSA-soln/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prachiupreti/DSA-soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prachiupreti/DSA-soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/prachiupreti/DSA-soln/tree/master/0134-gas-station) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachiupreti/DSA-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Design
 |  |
 | ------- |
