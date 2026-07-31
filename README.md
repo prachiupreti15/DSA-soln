@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prachiupreti/DSA-soln/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/prachiupreti/DSA-soln/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prachiupreti/DSA-soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachiupreti/DSA-soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prachiupreti/DSA-soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/prachiupreti/DSA-soln/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prachiupreti/DSA-soln/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/prachiupreti/DSA-soln/tree/master/0131-palindrome-partitioning) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachiupreti/DSA-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachiupreti/DSA-soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prachiupreti/DSA-soln/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prachiupreti/DSA-soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prachiupreti/DSA-soln/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/prachiupreti/DSA-soln/tree/master/1110-delete-nodes-and-return-forest) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prachiupreti/DSA-soln/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachiupreti/DSA-soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/prachiupreti/DSA-soln/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/prachiupreti/DSA-soln/tree/master/0274-h-index) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachiupreti/DSA-soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prachiupreti/DSA-soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prachiupreti/DSA-soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/prachiupreti/DSA-soln/tree/master/0134-gas-station) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachiupreti/DSA-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachiupreti/DSA-soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
 | ------- |
