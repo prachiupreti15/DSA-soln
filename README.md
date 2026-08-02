@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/prachiupreti/DSA-soln/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/prachiupreti/DSA-soln/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/prachiupreti/DSA-soln/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/prachiupreti/DSA-soln/tree/master/0877-stone-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prachiupreti/DSA-soln/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Tree
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/prachiupreti/DSA-soln/tree/master/0380-insert-delete-getrandom-o1) |
 | [0542-01-matrix](https://github.com/prachiupreti/DSA-soln/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prachiupreti/DSA-soln/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/prachiupreti/DSA-soln/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/prachiupreti/DSA-soln/tree/master/0994-rotting-oranges) |
 | [1110-delete-nodes-and-return-forest](https://github.com/prachiupreti/DSA-soln/tree/master/1110-delete-nodes-and-return-forest) |
 | [1288-remove-covered-intervals](https://github.com/prachiupreti/DSA-soln/tree/master/1288-remove-covered-intervals) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/prachiupreti/DSA-soln/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prachiupreti/DSA-soln/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/prachiupreti/DSA-soln/tree/master/0877-stone-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prachiupreti/DSA-soln/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prachiupreti/DSA-soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachiupreti/DSA-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/prachiupreti/DSA-soln/tree/master/0380-insert-delete-getrandom-o1) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prachiupreti/DSA-soln/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
