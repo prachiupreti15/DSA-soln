@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/prachiupreti/DSA-soln/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prachiupreti/DSA-soln/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prachiupreti/DSA-soln/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prachiupreti/DSA-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prachiupreti/DSA-soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/prachiupreti/DSA-soln/tree/master/1110-delete-nodes-and-return-forest) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/prachiupreti/DSA-soln/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prachiupreti/DSA-soln/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prachiupreti/DSA-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prachiupreti/DSA-soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachiupreti/DSA-soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prachiupreti/DSA-soln/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prachiupreti/DSA-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
