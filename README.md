@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prachiupreti/DSA-soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prachiupreti/DSA-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prachiupreti/DSA-soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prachiupreti/DSA-soln/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/prachiupreti/DSA-soln/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/prachiupreti/DSA-soln/tree/master/0222-count-complete-tree-nodes) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prachiupreti/DSA-soln/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prachiupreti/DSA-soln/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Database
 |  |
 | ------- |
